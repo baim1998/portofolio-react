@@ -1,0 +1,307 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+#navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+#logo-nav{
+    display: flex;
+    flex-direction: column;
+    font-size: 20;
+    font-family: 'roboto',sans-serif;
+    font-weight: bold;
+    
+}
+#logo{
+    width: 35px;
+}
+#item{
+   display: flex;
+   gap: 20px;
+   list-style: none;
+   font-family: 'roboto',sans-serif;
+   font-weight: bold;
+}
+
+#button-nav>{
+    width: 50px;
+    height: 30px;
+
+}
+#buttonsend{
+    display: flex;
+    justify-content: center;
+    gap: 7px;
+    width: 100px;
+    height: 30px;
+    border-color: solid  black 5px;
+    border-radius: 40px;
+    background-color: rgb(255, 255, 255);
+
+}  
+
+#intro-nav{
+display: flex;
+justify-content: space-around;
+}
+#about-nav{
+    margin-top: 100px;
+}
+#hello{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#name{
+    font-family:'Roboto Condensed',sans-serif;
+}
+#foto{
+    margin-top: 70px;
+    border-radius: 30px;
+}
+#icon-sosmed{
+    display:flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+    margin-right: 200px;
+}
+#discord{
+    width: 20px;
+    height: 20px;
+}
+#github{
+    width: 20px;
+    height: 20px
+}
+#tiktok{
+    width: 20px;
+    height: 20px
+}
+#instagram{
+    width: 20px;
+    height: 20px
+}
+#attention{
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#text-navbar{
+    text-align: center;
+}
+#header2{
+    margin-top: 10px;
+    font-family:'roboto',system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+}
+
+#paragraf{
+    font-size: 17px;
+    font-family: 'roboto',sans-serif;
+}
+#box{
+    display: flex;
+    gap: 85px;
+    margin-top: 30px;
+    width: 650px;
+    height: 100px;
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(234, 211, 255);
+}
+#nextlogo{
+    width: 40px;
+    margin-left: 17px; 
+    margin-top: 30px;
+}
+#paragraf-web>p{
+    margin-top: 35px;
+    text-align: left;
+    
+     
+}
+#logoweb{
+    display: flex;
+    align-items: center;
+    margin-left: 45px;
+    margin-top: 20px;
+    width: 40px;
+}
+#iconweb>p{
+    font-size: 13px;
+    font-weight: 1000;
+    padding-left: 25px;
+    font-family: 'roboto',sans-serif;
+
+}
+#box1{
+    display: flex;
+    gap: 85px;
+    margin-top: 30px;
+    width: 650px;
+    height: 100px;
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(234, 211, 255);
+}
+#nextlogo1{
+    width: 40px;
+    margin-left: 17px; 
+    margin-top: 30px;
+}
+#paragraf-web1>p{
+    margin-top: 35px;
+    text-align: left;
+    
+     
+}
+#logoweb1{
+    display: flex;
+    align-items: center;
+    margin-left: 45px;
+    margin-top: 20px;
+    width: 40px;
+}
+#iconweb1>p{
+    font-size: 13px;
+    font-weight: 1000;
+    padding-left: 25px;
+    font-family: 'roboto',sans-serif;
+
+}
+#box2{
+    display: flex;
+    gap: 82px;
+    margin-top: 30px;
+    width: 650px;
+    height: 100px;
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(234, 211, 255);
+}
+#nextlogo2{
+    width: 40px;
+    margin-left: -3px; 
+    margin-top: 30px;
+}
+#paragraf-web2>p{
+    margin-top: 35px;
+    text-align: left;
+    margin-left: 15px;
+     
+}
+#logoweb2{
+    display: flex;
+    align-items: center;
+    margin-left: 45px;
+    margin-top: 11px;
+    width: 40px;
+}
+#iconweb2>p{
+    font-size: 13px;
+    font-weight: 1000;
+    padding-left: 28px;
+    font-family: 'roboto',sans-serif;
+
+}
+#box3{
+    margin-bottom: 30px;
+    display: flex;
+    gap: 100px;
+    margin-top: 30px;
+    width: 650px;
+    height: 100px;
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(234, 211, 255);
+}
+#next-logo3>img{
+    width: 40px;
+    margin-top: 30px;
+    padding-right: 28px;
+}
+#paragraf-web3>p{
+    margin-top: 30px;
+    text-align: left;
+    margin-left:2px ;
+     
+}
+#logoweb3{
+
+    display: flex;
+    align-items: center;
+    margin-left: 38px;
+    margin-top: 13px;
+    width: 40px;
+}
+#iconweb3>p{
+    font-size: 13px;
+    font-weight: 1000;
+    padding-left: 25px;
+    font-family: 'roboto',sans-serif;
+
+}
+#porto-nav{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    background-color:rgba(162, 86, 177, 0.325);
+}
+#design1{
+    margin-top: 30px;
+    width: 250px;
+    border-radius: 20px;
+    
+}
+#design2{
+    margin-top: 30px;
+    width: 250px ;
+    height: 200px;
+    border-radius: 20px;
+}
+#design3{
+    width: 300px ;
+    height: 200px;
+    border-radius: 20px;
+}
+#porto-nav1{
+    height: 255px;
+    gap:10px;
+display: flex;
+justify-content: center;
+align-content: center;
+background-color:rgba(162, 86, 177, 0.325);
+
+}
+#designa{
+    width: 250px;
+    height: 150px;
+    border-radius: 20px;
+}
+#designb{
+    margin-top: 20px;
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+}
+#baground{
+ background-color: #753e997e;
+ height: 400px;
+}
+#nav-end{
+    display: flex;
+    justify-content: space-around;
+    gap: 70px;
+    background-color: black;
+}
+
+
+
+
