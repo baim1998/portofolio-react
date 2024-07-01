@@ -140,7 +140,7 @@ function Home() {
         <h3 style={{fontFamily:'Roboto,sans-serif',marginTop :'10px',color:'white'}}>Want to make <br />beautiful products ?</h3>
         <button style={{display:'flex',justifyContent:'space-around',width:'100px',height:'30px',marginTop:'10px',borderRadius:'20px',marginBottom:'20px',backgroundColor:'#BB8FCE ',}}>
           <p style={{paddingTop:'7px',fontFamily:'roboto,sans-serif',fontWeight:'bold',color:'white'}}>Hire me</p>
-          <img style={{paddingTop:'3px',paddingRight:'3px'}} src="src/assets/logo/message.png" width={'20px'} />
+          <img style={{paddingTop:'3px',paddingRight:'3px'}} src="/logo/message.png" width={'20px'} />
           </button>
       </div>
       <div id="logo-text">
