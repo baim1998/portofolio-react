@@ -3,7 +3,7 @@ function Home() {
     <div>
     <div id="navbar">
        <div id="logo-nav">
-      <img id="logo" src="src/assets/logo/smart_toy_24dp_FILL0_wght400_GRAD0_opsz24.png" />
+      <img id="logo" src="/logo/smart_toy_24dp_FILL0_wght400_GRAD0_opsz24.png" />
       baim
       </div>
        <div id="menu-item">
@@ -18,7 +18,7 @@ function Home() {
             <p style={{fontWeight:'1000',fontFamily:'Franklin Gothic Medium,Arial Narrow,Arial, sans-serif',fontSize:'12px',marginTop:'5px'}}>
             Let's Talk
               </p>
-             <img style={{marginTop:'5px'}} src="src/assets/logo/send.png" width="15px" />
+             <img style={{marginTop:'5px'}} src="/logo/send.png" width="15px" />
           </button>
        </div>
   </div>
@@ -29,15 +29,15 @@ function Home() {
     Belajar Coding Fullstack
     <div id="icon-sosmed">
      <h5 id="attention">Follow me</h5> 
-    <img id="discord" src="src/assets/logo/discord.png"/>
-    <img id="github" src="src/assets/logo/github.png"/>
-    <img id="tiktok" src="src/assets/logo/tiktok.png"/>
-    <img id="instagram" src="src/assets/logo/instagram.png"/>
+    <img id="discord" src="/logo/discord.png"/>
+    <img id="github" src="/logo/github.png"/>
+    <img id="tiktok" src="/logo/tiktok.png"/>
+    <img id="instagram" src="/logo/instagram.png"/>
     </div>
   </h1>
   </div>
   <div id="profile-nav">
-    <img id="foto" src="src/assets/logo/luffy.jpg" />
+    <img id="foto" src="/logo/luffy.jpg" />
   </div>
   </div>
   <div id="text-navbar">
@@ -52,75 +52,75 @@ function Home() {
   </div>
     <div id="box">
     <div id="iconweb">
-        <img id="logoweb" src="src/assets/logo/web.png"/>
+        <img id="logoweb" src="/logo/web.png"/>
         <p id="textweb">Web Design</p>
       </div>
       <div id="paragraf-web">
         <p id="paragrafweb1">Website design using a modern and trending <br /> design in the market</p>
       </div>
       <div id="next-logo">
-        <img id="nextlogo" src="src/assets/logo/next.png"/>
+        <img id="nextlogo" src="/logo/next.png"/>
       </div>
       
       
     </div>
     <div id="box1">
     <div id="iconweb1">
-        <img id="logoweb1" src="src/assets/logo/app.png"/>
+        <img id="logoweb1" src="/logo/app.png"/>
         <p id="textweb1">Apps Design</p>
       </div>
       <div id="paragraf-web1">
         <p id="paragrafweb11">App design while maintaining user comfort <br /> when using the application</p>
       </div>
       <div id="next-logo1">
-        <img id="nextlogo1" src="src/assets/logo/next.png"/>
+        <img id="nextlogo1" src="/logo/next.png"/>
       </div>
       
       
     </div>
     <div id="box2">
     <div id="iconweb2">
-        <img id="logoweb2" src="src/assets/logo/front.png"/>
+        <img id="logoweb2" src="/logo/front.png"/>
         <p id="textweb2">Frontend <br /> Developer</p>
       </div>
       <div id="paragraf-web2">
         <p id="paragrafweb12">Frontend web developer by implementing ui/ux <br />design into code  </p>
       </div>
       <div id="next-logo2">
-        <img id="nextlogo2" src="src/assets/logo/next.png"/>
+        <img id="nextlogo2" src="/logo/next.png"/>
       </div>
       
       
     </div>
     <div id="box3">
     <div id="iconweb3">
-        <img id="logoweb3" src="src/assets/logo/backend.png"/>
+        <img id="logoweb3" src="/logo/backend.png"/>
         <p id="textweb3">Backend <br />Developer</p>
       </div>
       <div id="paragraf-web3">
         <p id="paragrafweb13">Backend web developer by creating logic that will be used by the user</p>
       </div>
       <div id="next-logo3">
-        <img id="nextlogo3" src="src/assets/logo/next.png"/>
+        <img id="nextlogo3" src="/logo/next.png"/>
       </div>
       
       
     </div>
     <div id="porto-nav">
      <div id="porto1">
-      <img id="design1" src="src/assets/logo/react1.jpg"  />
+      <img id="design1" src="/logo/react1.jpg"  />
      </div>
      <div id="porto2">
-      <img id="design2" src="src/assets/logo/react2.jpg"  />
+      <img id="design2" src="/logo/react2.jpg"  />
      </div>
     </div>
     <div id="porto-nav1">
     
       <div id="portoa">
-        <img id="designa" src="src/assets/logo/react3.jpg"  />
+        <img id="designa" src="/logo/react3.jpg"  />
       </div>
       <div id="portob">
-        <img id="designb" src="src/assets/logo/react4.jpg"/>
+        <img id="designb" src="/logo/react4.jpg"/>
       </div>
     </div>
    <div id="baground">
@@ -128,7 +128,7 @@ function Home() {
     
     <div>
       <p style={{textAlign:'center',paddingTop:'20px',fontSize:'20px',fontFamily:'Roboto,sans-serif',fontWeight:'600'}}>BAIM <p style={{fontSize:'15px',fontWeight:'200',marginBottom:'10px'}}>Belajar Coding Fullstack</p>
-        <img style={{borderRadius:'20px'}} src="src/assets/logo/luffy2.jpg" width="200px" /></p>
+        <img style={{borderRadius:'20px'}} src="/logo/luffy2.jpg" width="200px" /></p>
       <p style={{fontSize:'15px',fontFamily:'sans-serif',marginTop:'10px',textAlign:'center'}}>I graduated From SMK NURUL MUKMIN with Computer and Network Engineering study Program, <br />
         I have experience in Frontend Developer.
       </p>
@@ -150,10 +150,10 @@ function Home() {
         <br />
         <div style={{display:'flex',justifyContent:'left', gap:'10px'}}>
         <p style={{color:'white',marginTop:'7px'}}>follow me :</p>       
-        <img style={{paddingLeft:'10px',}} src="src/assets/logo/discord1.png"width='30px'/>
-        <img  src="src/assets/logo/github1.png" width='30px' />
-        <img  src="src/assets/logo/tik-tok1.png"width='30px'  />
-        <img  src="src/assets/logo/instagram1.png"width='30px'  /></div>
+        <img style={{paddingLeft:'10px',}} src="/logo/discord1.png"width='30px'/>
+        <img  src="/logo/github1.png" width='30px' />
+        <img  src="/logo/tik-tok1.png"width='30px'  />
+        <img  src="/logo/instagram1.png"width='30px'  /></div>
       </div>
     </div>
    
